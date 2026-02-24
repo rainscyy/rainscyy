@@ -1,4 +1,8 @@
-## Hi there 👋
+Raine is a designer and emerging product thinker working at the intersection of AI, interactive systems, and digital experiences. Her work explores agentic AI products, computational design, and human-centered interfaces, with a focus on translating complex technologies into meaningful and intuitive user experiences. 
+
+With a background in architecture and spatial design, she approaches products as systems of communication and coordination across people, data, and environments. Raine is particularly interested in AI-driven tools, creative technologies, games, and interactive platforms that shape how people learn, create, and connect.
+
+Currently pursuing a Master of Design Studies at Harvard, Raine works across AI product strategy, interaction design, and data-informed prototyping. Through cross-disciplinary collaborations, interviews, and her podcast, she explores ideas in dialogue with others, continually expanding the boundaries of how technology, design, and human experience can evolve together.
 
 <!--
 **rainscyy/rainscyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
