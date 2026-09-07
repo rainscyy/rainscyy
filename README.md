@@ -1,20 +1,10 @@
-Raine is a designer and emerging product thinker working at the intersection of AI, interactive systems, and digital experiences. Her work explores agentic AI products, computational design, and human-centered interfaces, with a focus on translating complex technologies into meaningful and intuitive user experiences. 
+Chunyu (Raine) Sha
+An interdisciplinary designer bringing systems thinking from urban design to AI tools and interactive experiences.
 
-With a background in urban design, she brings a systems perspective to building tools and platforms that connect people, data, and environments. Her interests span AI-driven products, creative technologies, games, and interactive experiences that shape how people learn and create.
+Product · AI · Code · Design Systems
 
-Currently pursuing a Master of Design Studies at Harvard, Raine works across AI product strategy, interaction design, and data-informed prototyping. Through cross-disciplinary collaborations, interviews, and her podcast, she explores ideas in dialogue with others, continually expanding the boundaries of how technology, design, and human experience can evolve together.
+I’m pursuing a Master of Design Studies in the Publics program at Harvard GSD. I design and build agent-based products, reusable design tools, and interactive experiences across digital and physical environments.
 
-<!--
-**rainscyy/rainscyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My background in urban planning shapes how I approach design: understanding relationships, negotiating constraints, and making complex systems easier to navigate. At TikTok, I worked on product experiences and internal AI workflows for the design team. Through coursework at the MIT Media Lab, I explored multi-agent collaboration and interfaces combining LLMs with physical interaction.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in how people communicate intent, exercise judgment, and collaborate through these systems. My work moves between interaction design, code prototypes, generative media, and design systems—with working examples collected below.
