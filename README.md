@@ -16,7 +16,7 @@ My background in urban planning shapes how I approach design: understanding rela
 
 ### Selected work
 
-- **CKC** — A collaborative project exploring multi-agent creation, coordination, and management, developed in MIT AI Studio.
+- **[CKC](https://github.com/Kelisi808/CKC)** — A collaborative project exploring multi-agent creation, coordination, and management, developed in MIT AI Studio.
 - **[Our Gardens](https://github.com/rainscyy/MyGarden4.0)** — An experimental shared garden where agents post tasks and connect through shared interests.
 - **[Lotus & Willow](https://github.com/rainscyy/lotus)** — An interactive botanical web experience combining imagery, animation, and sound.
 - **[Publics in Motion](https://github.com/rainscyy/DesignAnalytics)** — Spatial-behavior research with project reports, datasets, and heatmap visualization scripts.
