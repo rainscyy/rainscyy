@@ -1,4 +1,4 @@
-# Hi, I’m Raine 🌱
+# Hi, I’m Raine 🌧️
 
 **Chunyu (Raine) Sha · Product · AI · Code · Design Systems**
 
